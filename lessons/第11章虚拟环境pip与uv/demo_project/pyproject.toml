@@ -1,0 +1,14 @@
+[project]
+name = "chapter11-config-demo"
+version = "0.1.0"
+description = "Read a local Agent configuration without making network requests"
+requires-python = ">=3.14"
+dependencies = ["python-dotenv>=1.2.3,<2"]
+
+[dependency-groups]
+# 本章没有必须新增的开发工具；以后测试依赖放这里，不混入运行依赖。
+dev = []
+
+[tool.uv]
+# 这是直接运行 main.py 的独立应用，不需要把应用自身构建安装为发行包。
+package = false

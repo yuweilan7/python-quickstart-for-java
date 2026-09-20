@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# 仅用于应用内异步测试；生产启动服务不需要它们。
+asgi-lifespan==2.1.0
+pytest==9.1.1
+pytest-asyncio==1.4.0

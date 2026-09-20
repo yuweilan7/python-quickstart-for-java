@@ -1,0 +1,2 @@
+# 第 14 章运行依赖。2.13 系列支持 Python 3.14，并使用稳定的 Pydantic v2 API。
+pydantic>=2.13.5,<3

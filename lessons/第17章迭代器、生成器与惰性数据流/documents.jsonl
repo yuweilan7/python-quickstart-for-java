@@ -1,0 +1,5 @@
+{"document_id":"doc-001","title":"生成器基础","category":"python","score":0.95}
+{"document_id":"doc-002","title":"普通数据库记录","category":"database","score":0.92}
+{"document_id":"doc-003","title":"惰性文档流水线","category":"python","score":0.88}
+{"document_id":"doc-error","title":"受控转换失败","category":"python","score":0.86}
+{"document_id":"doc-005","title":"未被提前读取的文档","category":"python","score":0.82}

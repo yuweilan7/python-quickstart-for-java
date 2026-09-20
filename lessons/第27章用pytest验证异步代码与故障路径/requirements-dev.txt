@@ -1,0 +1,4 @@
+# 第 27 章测试依赖；-r 同时安装示例运行依赖。
+-r requirements.txt
+pytest==9.1.1
+pytest-asyncio==1.4.0

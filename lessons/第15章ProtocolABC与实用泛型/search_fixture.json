@@ -1,0 +1,20 @@
+[
+  {
+    "document_id": "fixture-1",
+    "title": "Protocol 让工具后端可替换",
+    "snippet": "调用方依赖 search 能力，不依赖具体存储方式。",
+    "source": "local-fixture"
+  },
+  {
+    "document_id": "fixture-2",
+    "title": "实用泛型保留输入输出关系",
+    "snippet": "Result[T] 让成功数据保持具体类型。",
+    "source": "local-fixture"
+  },
+  {
+    "document_id": "fixture-3",
+    "title": "ABC 管理固定生命周期",
+    "snippet": "抽象方法阻止不完整子类实例化。",
+    "source": "local-fixture"
+  }
+]
